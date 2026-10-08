@@ -1,0 +1,7 @@
+Meu Dinheiro em Ordem 3.0 — versão de teste
+
+NÃO substitua ainda o aplicativo publicado.
+Teste em separado. Dados ficam no navegador, sem contas individuais ou sincronização.
+Contas a pagar: ao marcar como paga, registra despesa no dia do pagamento.
+Exportação inclui contas e movimentações; importação aceita backups da versão anterior.
+Para publicar após testes, atualize os arquivos no GitHub e valide a instalação.
